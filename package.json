@@ -1,0 +1,23 @@
+{
+	"name": "d3-practice",
+	"version": "0.1.0",
+	"description": "Qingye's d3 practice",
+	"keywords": [
+		"data visualization",
+		"d3"
+	],
+	"author": {
+		"name": "Qingye Jiang",
+		"url": "https://github.com/jqybuddha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:jqybuddha/d3-practice.git"
+	},
+	"dependencies": {
+		"d3": "3.x"
+	},
+	"devDependencies": {
+		"uglify-js": "2.x"
+	}
+}
